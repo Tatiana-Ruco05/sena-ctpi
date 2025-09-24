@@ -1,6 +1,6 @@
 const url = "https://raw.githubusercontent.com/CesarMCuellarCha/apis/main/SENA-CTPI.matriculados.json";
 
-// --- LOGIN ---
+//  inicio de sesion
 function login() {
   const usuario = document.getElementById("usuario").value.trim();
   const password = document.getElementById("password").value;
